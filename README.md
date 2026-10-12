@@ -1,5 +1,7 @@
 # Bot de Candidaturas — versão inicial
 
+Pode acessar aqui: https://bot-vagas.streamlit.app
+
 Aplicação local em Python para cadastrar/importar vagas, calcular uma pontuação de aderência ao perfil profissional e acompanhar candidaturas. Não faz login nem envia candidaturas automaticamente; a confirmação é manual.
 
 ## Requisitos
